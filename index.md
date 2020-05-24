@@ -5,7 +5,7 @@ kkksñlskñlsk
 
 ## Calle Bélgica-Calle Sofía
 
-[Enlace a gráfica](plotly.com/~Juliauru/0.embed)
+[Enlace a gráfica](https://plotly.com/~Juliauru/0/?share_key=0P9AoKnRbf0Kz3yKPaTutd)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
