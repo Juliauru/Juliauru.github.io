@@ -4,12 +4,10 @@ En esta página se recogen los resultados obtenidos en el TFG ""Análisis de flu
 kkksñlskñlsk
 ## Resultados
 ### Calle Bélgica-Calle Sofía
-1. Variación en tensión, intensidad y potencia horaria en un año. Comparativa con la radiación incidente.
-
-      [VIP-R_Diaria](https://chart-studio.plotly.com/~Juliauru/0.embed?share_key=0P9AoKnRbf0Kz3yKPaTutd)
+1. Variación en tensión, intensidad y potencia horaria en un año. Comparativa con la radiación incidente:[VIP-R_Diaria](https://chart-studio.plotly.com/~Juliauru/0.embed?share_key=0P9AoKnRbf0Kz3yKPaTutd)
 
 Aquí se puede descargar la gráfica anterior en detalle para cada una de las líneas o casos en formato html (debe descargarse el archivo y abrirse con cualquier explorador):
-  - Densidad de probabilidad-line6: [aquí](https://drive.google.com/open?id=1qPJzsfSNTXVUXilTYYheO-cGBqHTtDDw)
+  - Densidad de probabilidad: [aquí](https://drive.google.com/open?id=1NGoD2Fes-AybndVSGzBjXgTfYQD8F4y5)
 
 
 
