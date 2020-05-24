@@ -7,6 +7,9 @@ kkksñlskñlsk
 
 [Enlace a gráfica](https://chart-studio.plotly.com/~Juliauru/0.embed?share_key=0P9AoKnRbf0Kz3yKPaTutd)
 
+Aquí se puede descargar la misma gráfica para cada una de las líneas o casos:
+  - Densidad de probabilidad-line6: [aquí](https://drive.google.com/open?id=1qPJzsfSNTXVUXilTYYheO-cGBqHTtDDw)
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Calle Benimamet
