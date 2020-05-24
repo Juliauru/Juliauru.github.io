@@ -1,16 +1,17 @@
-##TFG_SFV 
-En esta página se recogen los resultados obtenidos en el TFG "". Se trata de...
+# TFG_SFV 
+En esta página se recogen los resultados obtenidos en el TFG ""Análisis de flujo de cargas en redes de distribución urbanas con integración de sistemas fotovoltaicos" realizado por Julia Uruel Sanz, alumna del Doble grado de Ingeniería Eléctrica e Ingeniería Electrónica Industrial y Automática en la UPM. Este proyecto se ha realizado en colaboración con el Instituto de Energía Solar (IES).
 ## Resumen
 kkksñlskñlsk
+## Resultados
+### Calle Bélgica-Calle Sofía
+1. Variación en tensión, intensidad y potencia horaria en un año. Comparativa con la radiación incidente.
 
-## Calle Bélgica-Calle Sofía
+      [VIP-R_Diaria](https://chart-studio.plotly.com/~Juliauru/0.embed?share_key=0P9AoKnRbf0Kz3yKPaTutd)
 
-[Enlace a gráfica](https://chart-studio.plotly.com/~Juliauru/0.embed?share_key=0P9AoKnRbf0Kz3yKPaTutd)
-
-Aquí se puede descargar la misma gráfica para cada una de las líneas o casos:
+Aquí se puede descargar la gráfica anterior en detalle para cada una de las líneas o casos en formato html (debe descargarse el archivo y abrirse con cualquier explorador):
   - Densidad de probabilidad-line6: [aquí](https://drive.google.com/open?id=1qPJzsfSNTXVUXilTYYheO-cGBqHTtDDw)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
 
 ### Calle Benimamet
 
